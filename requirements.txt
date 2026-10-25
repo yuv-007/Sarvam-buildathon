@@ -2,3 +2,5 @@
 sarvamai
 streamlit
 python-dotenv
+requests
+beautifulsoup4
